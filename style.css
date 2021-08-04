@@ -1,0 +1,116 @@
+body{
+    font-family: 'Montez', cursive;
+}
+
+h1{
+    color: cornsilk;
+    height: 50px;
+    width: 500px;
+    font-style: oblique;
+    font-size: 300%;
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+    color: rgb(12, 11, 8);
+    height: 50px;
+    width: left;
+    font-style: oblique;
+    text-align: center;
+}
+h3{
+    color: dodgerblue;
+    height: 50px;
+    font-style: oblique;
+    font-size: 30px;
+    width: right;
+    text-align: center;
+}
+p{
+    color: rgb(184, 173, 22);
+    width: right;
+}
+.frnd{
+    color: brown;
+
+}
+.t{
+    color: cadetblue;
+}
+#me{
+    font-size: xx-large;
+    background-color: rgba(0, 0, 255, 0.308);
+    font-style: initial;
+    color: lightcoral;
+}
+.blog{
+    border: 20px solid rgb(214, 218, 20);
+    border-radius: 20px;
+    margin: 1%;
+    padding: 20px 40px 10px 22px;
+    width: 30%;
+    display: inline-block;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5% ;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+    margin: 50px;
+
+}
+.top{
+    background-image: url(omg.jpg);
+    border: 500px
+
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+    margin: 20px;
+}
+.ankbtn{
+    text-decoration: none;
+    background-color:coral;
+    padding: 10px 20px ;
+    border-radius: 5px;
+    color: cornsilk;
+}
+.being{
+    width: 40%;
+    float: left;
+    margin-left: 5% ;
+    padding-left: 2%;
+}
+.dream{
+    background-image: url(omg.jpg);
+    border: 500px;
+
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+.experience{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice:1 ;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
